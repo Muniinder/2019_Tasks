@@ -2,3 +2,6 @@
       #codeforces                   #codechef
       prev questions                 solve june long challenge questions (3/8) 
 
+Problems to bhe solved:
+      bit even arrays
+      optimal path --------- have two options to go i.e. i+1 or i+i%k+1 , find the sum of values of optimum path
